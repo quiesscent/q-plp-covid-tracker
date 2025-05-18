@@ -1,7 +1,7 @@
 
 # COVID-19 Global Data Tracker
 
-**Author:** Jussie
+**Author:** Ephesians Lewis
 **Description:** This project focuses on tracking and analyzing global COVID-19 trends. It uses real-world data to explore metrics like cases, deaths, recoveries, and vaccinations across different countries and regions. The project visualizes trends over time using various plots and charts.
 
 ## Objectives
